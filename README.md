@@ -6,5 +6,5 @@
 - 사용 데이터: 바이낸스 거래소 기준 1일 종가
 - 데이터 출처: https://www.cryptodatadownload.com/data/binance/
 
-## 결과
+## 분석 결과
 ![result](https://user-images.githubusercontent.com/87348583/131637134-c1ef3640-707f-4ea7-ad78-359f746e0230.png)
