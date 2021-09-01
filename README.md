@@ -3,4 +3,5 @@
 
 ## 설명
 - 분석 날짜: 2018/01/01 - 2021/05/27
-- 데이터 출처: https://www.cryptodatadownload.com/data/binance/ - 바이낸스 거래소 기준 1일 종가 데이터
+- 데이터 정보: 바이낸스 거래소 기준 1일 종가 데이터
+- 데이터 출처: https://www.cryptodatadownload.com/data/binance/
