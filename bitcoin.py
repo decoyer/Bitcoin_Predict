@@ -53,3 +53,14 @@ x_plot = np.arange(1243)
 y_plot = rbf.svr.predict(x_plot.reshape((-1, 1)))
 
 # 플롯 구성
+plt.figure(figsize=(20,10))
+plt.gca().invert_xaxis()
+plt.xlabel('날짜')
+plt.ylabel('단위: $')
+
+# 예측 데이터 그래프 시각화
+plt.plot(x_plot, btc['close'], color='red', label='실제 비트코인 가격')
+plt.plot(x_plot, y_plot, color='limegreen', label='예측 비트코인 가격')
+plt.legend()
+
+plt.show()
