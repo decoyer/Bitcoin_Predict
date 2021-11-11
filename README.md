@@ -14,7 +14,7 @@
 
 ## 분석 결과
 ### LSTM 모델
-![result](https://user-images.githubusercontent.com/87348583/141330427-8f06a28b-1bd3-4e6a-a9ca-1fc29cc220ea.png)
+<img width="354" alt="result" src="https://user-images.githubusercontent.com/87348583/141330544-45e91a07-5c58-4ef4-a9fd-92784f2095b0.png">
 
 ### RBF 모델
 ![result](https://user-images.githubusercontent.com/87348583/131637134-c1ef3640-707f-4ea7-ad78-359f746e0230.png)
