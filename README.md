@@ -21,8 +21,3 @@ using *Jupyter Notebook*
 
 ## Install
 `pip install FinanceDataReader`
-
-## Getting Started
-```
-tt
-```
