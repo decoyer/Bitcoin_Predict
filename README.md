@@ -10,7 +10,7 @@ using *Jupyter Notebook*
 
 ### RBF Model
 - Date: *2018/01/01 ~ 2021/05/27*
-- Data: 'BTC/USDT' (Binance) https://www.cryptodatadownload.com/data/binance/
+- Data: 'BTC/USDT' (Binance)
 
 ## 분석 결과
 ### LSTM 모델
