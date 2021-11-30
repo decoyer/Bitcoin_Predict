@@ -1,21 +1,28 @@
-# 비트코인 가격 예측
-### *Python* 코드로 구현한 **비트코인 가격 예측 모델**
+# 비트코인 가격 예측 모델
+Bitcoin Predict Model with *Python*
 
-## 설명
-### LSTM 모델
-- 분석 날짜: *2018/01/01 ~ 2021/11/11*
-- 사용 데이터: Bitfinex 거래소 기준 1일 종가
-- 사용 데이터: *import FinanceDataReader*
+using *Jupyter Notebook*
 
-### RBF 모델
-- 분석 날짜: *2018/01/01 ~ 2021/05/27*
-- 사용 데이터: Binance 거래소 기준 1일 종가
-- 데이터 출처: https://www.cryptodatadownload.com/data/binance/
+## Details
+### LSTM Model
+- Date: *2018/01/01 ~ 2021/11/11*
+- Data: 'BTC/USD' (Bitfinex)
+
+### RBF Model
+- Date: *2018/01/01 ~ 2021/05/27*
+- Data: 'BTC/USDT' (Binance) https://www.cryptodatadownload.com/data/binance/
 
 ## 분석 결과
 ### LSTM 모델
 ![result](https://user-images.githubusercontent.com/87348583/141330636-953532d6-e602-400c-8d91-bcbff2d931ac.png)
 
-
 ### RBF 모델
 ![result](https://user-images.githubusercontent.com/87348583/131637134-c1ef3640-707f-4ea7-ad78-359f746e0230.png)
+
+## Install
+`pip install FinanceDataReader`
+
+## Getting Started
+```
+tt
+```
