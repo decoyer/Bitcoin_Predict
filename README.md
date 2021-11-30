@@ -12,7 +12,7 @@ using *Jupyter Notebook*
 - Date: *2018/01/01 ~ 2021/05/27*
 - Data: 'BTC/USDT' (Binance)
 
-## 분석 결과
+## Results
 ### LSTM
 ![result](https://user-images.githubusercontent.com/87348583/141330636-953532d6-e602-400c-8d91-bcbff2d931ac.png)
 
