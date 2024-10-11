@@ -20,5 +20,11 @@ using *Jupyter Notebook*
 ![result](https://user-images.githubusercontent.com/87348583/131637134-c1ef3640-707f-4ea7-ad78-359f746e0230.png)
 
 ## Install
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 `pip install FinanceDataReader`
+
+## Getting Started
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+```
+lstm.ipynb
+rbf.ipynb
+```
